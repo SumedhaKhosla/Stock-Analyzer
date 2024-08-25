@@ -1,0 +1,9 @@
+Requirements:
+
+Python 3.x
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+TensorFlow (or any other ML library you use for predictions)
+Yahoo Finance API or equivalent for fetching stock data
